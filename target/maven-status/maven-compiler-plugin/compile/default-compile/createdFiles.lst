@@ -1,0 +1,5 @@
+org/apache/camel/example/springboot/UserServiceImpl.class
+org/apache/camel/example/springboot/Application.class
+org/apache/camel/example/springboot/User.class
+org/apache/camel/example/springboot/UserService.class
+org/apache/camel/example/springboot/CamelRouter.class

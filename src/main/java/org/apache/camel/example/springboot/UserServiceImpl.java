@@ -32,6 +32,7 @@ public class UserServiceImpl implements UserService {
         users.put(2, new User(2, "Miles Davis"));
         users.put(3, new User(3, "Sonny Rollins"));
         users.put(4, new User(4, "Eduardo Rivas Zapata"));
+        users.put(5, new User(5, "Vannia Galvez"));
     }
 
     @Override
